@@ -80,3 +80,8 @@ Get-Content entrada.txt | python p1235.py
 
 - Python 3
 - Sem bibliotecas externas (implementação manual do Prim)
+
+##  Prova da submissão
+
+}<img width="832" height="300" alt="image" src="https://github.com/user-attachments/assets/fd1f120a-9970-4ab4-a3a2-2c197d5235b8" />
+
