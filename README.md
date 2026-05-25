@@ -1,6 +1,6 @@
 # Panda Land Safe Box — p1235
 
-Solução para o problema **p1235** do Online Judge, desenvolvido como trabalho avaliativo da disciplina de Algoritmos e Estruturas de Dados.
+Solução para o problema **p1235** do Online Judge, desenvolvido como trabalho avaliativo da disciplina de CANA.
 
 ---
 
