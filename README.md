@@ -75,6 +75,41 @@ Get-Content entrada.txt | python p1235.py
 ```
 
 ---
+## Resultados
+
+Entrada de teste com os 4 casos do enunciado:
+4
+2 1155 2211
+3 1111 1155 5511
+3 1234 5678 9090
+4 2145 0213 9113 8113
+
+Saída obtida:
+16
+20
+26
+17
+
+Saída esperada pelo enunciado:
+16
+20
+26
+17
+
+✅ Todos os casos batem com o esperado.
+
+---
+
+## Exemplo Explicado
+
+- `0000` → `1111`: 4 rolagens
+- `1111` → `1155`: 8 rolagens
+- JUMP de volta para `1111` (grátis)
+- `1111` → `5511`: 8 rolagens
+
+**Total: 20 rolagens**
+
+---
 
 ## Tecnologias
 
